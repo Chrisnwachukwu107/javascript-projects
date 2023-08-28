@@ -1,0 +1,21 @@
+.bg-col-grey
+{
+    background-color: lightgrey;
+}
+
+.h5-currently
+{
+    font-size: 24px;
+}
+
+.h3-most
+{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.h4-lang-coun-name, .h4-lang-coun-num
+{
+    font-size: 20px;
+    font-weight: 500;
+}

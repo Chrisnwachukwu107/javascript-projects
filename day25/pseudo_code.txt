@@ -1,0 +1,44 @@
+Create a .container-fluid, inside:
+- Create a h1.h1-world -> World Countries Data
+- Create a h5.h5-currently -> Currently we have 250 countries
+;
+
+Create a .container-fluid, inside:
+- 2 btns -> (POPULATION & LANGUAGES), .btn-population & .btn-languages
+- a h3 -> 10 Most Spoken Languages In The World, .h3-most
+;
+
+Create a .container-fluid, inside:
+- h4.h4-lang-coun-name -> Each Language/Country (.col-2)
+- input.input-lang-coun-level -> Level depending on Language/Country (.col-6)
+- h4.h4-lang-coun-num -> Number of languages/countries (.col-2)
+;
+
+Style everything using Bootstrap;
+
+Done with HTML and CSS;
+
+When btn-population btn is clicked:
+- Display POPULATION data on:
+- - .h4-lang-coun-name
+- - .h4-lang-coun-level
+- - .h4-lang-coun-num
+;
+When btn-language btn is clicked:
+- Display LANGUAGES data on:
+- - .h4-lang-coun-name
+- - .h4-lang-coun-level
+- - .h4-lang-coun-num
+;
+
+function to sort top-10 countries/languages;
+
+function too create 10:
+- div.container.mx-auto, inside:
+- - div.col-12.d-flex.justify-content-center, inside:
+- - - h4.display-4.h4-lang-coun-name, inside:
+- - - - language/country name;
+
+- - - h4.display-4.h4-lang-coun-num, inside:
+- - - - language/country num;
+;;;
